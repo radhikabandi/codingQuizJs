@@ -1,0 +1,18 @@
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+
+  #choices {
+    display: flex;
+    flex-direction: column;
+  }
+  #scores-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
